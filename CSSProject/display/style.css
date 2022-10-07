@@ -1,0 +1,7 @@
+h1{
+    border: 3px solid red;
+}
+
+h1, span {
+    border: 3px solid red;
+}

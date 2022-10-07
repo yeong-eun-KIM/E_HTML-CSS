@@ -1,0 +1,14 @@
+.up{
+    background-color: indigo;
+    width: 100px;
+    height: 100px;
+}
+
+.down{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    opacity: 0.5;
+}

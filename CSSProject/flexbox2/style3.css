@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+body{
+    display: flex;
+    align-items: flex-end;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+}
+
+#second {
+    background-color: seagreen;
+}
